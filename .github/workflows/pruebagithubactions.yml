@@ -1,5 +1,6 @@
 name: GitHub Actions Practica
 on: [push]
+
 jobs:
   Explorando-GitHub-Actions:
     runs-on: ubuntu-latest
