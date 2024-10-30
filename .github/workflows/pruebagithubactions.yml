@@ -1,5 +1,6 @@
 name: GitHub Actions Practica
-on: [push]
+on:
+  push:
 
 jobs:
   Explorando-GitHub-Actions:
